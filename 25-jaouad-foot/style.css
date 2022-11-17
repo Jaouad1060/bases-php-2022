@@ -1,0 +1,105 @@
+nav{
+    text-align: center;
+    font-size: 2em;
+    padding: 50px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+#fond{
+    background-image: url(/25-jaouad-foot/i/terrain1.webp);
+}
+
+ a{
+    text-decoration: none;
+    color: white;
+}
+
+#ldc{
+    background-image: url(/25-jaouad-foot/i/ldc.jpg);
+}
+
+.text1{
+    color: white;
+    width: 730px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    
+   
+}
+
+.ldc1{
+    color: white;}
+
+#foot{
+    background-image: url(/25-jaouad-foot/i/balle.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+
+.text2{
+    color: white;
+    width: 1450px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#barca{
+background-image: url(/25-jaouad-foot/i/barca6.jpg);
+}
+
+.barca2{
+    color: white;
+    width: 680px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#real{
+    background-image: url(/25-jaouad-foot/i/real.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+
+.barca3{
+    color: white;
+    width: 620px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ #messi{
+    background-image: url(/25-jaouad-foot/i/messi.webp);
+    background-repeat: no-repeat;
+    background-size:cover ;
+ }
+
+ .messi1{
+    color: white;
+    width: 680px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ #regles{
+    background-image: url(/25-jaouad-foot/i/terrain.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+ }
+
+ .regles1{
+color: rgb(255, 255, 255);
+width: 1080px;
+text-align: justify;
+font-family: Arial, Helvetica, sans-serif;
+ }
+
+ #cup{
+    background-image: url(/25-jaouad-foot/i/cup2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+ }
